@@ -1,0 +1,3 @@
+{"nombre":"Francisco","edad":72,"Correo":"personal"}
+{"nombre":"Luis ","edad":16,"Correo":"fernando@hotmail.com"}
+{"nombre":"Jesus","edad":45,"Correo":"sin correo"}
